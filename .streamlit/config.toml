@@ -2,8 +2,8 @@
 # Change the colours here to restyle the whole app at once.
 [theme]
 base = "dark"
-primaryColor = "#8b5cf6"            # buttons, sliders, accents (violet)
-backgroundColor = "#0e1117"         # main page background
+primaryColor = "#0da10d"            # buttons, sliders, accents (violet)
+backgroundColor = "#20396b"         # main page background
 secondaryBackgroundColor = "#1a1d29" # sidebar and cards
 textColor = "#fafafa"
 font = "sans serif"
