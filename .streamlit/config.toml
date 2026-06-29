@@ -1,0 +1,13 @@
+# Visual theme for the app. Streamlit reads this automatically.
+# Change the colours here to restyle the whole app at once.
+[theme]
+base = "dark"
+primaryColor = "#8b5cf6"            # buttons, sliders, accents (violet)
+backgroundColor = "#0e1117"         # main page background
+secondaryBackgroundColor = "#1a1d29" # sidebar and cards
+textColor = "#fafafa"
+font = "sans serif"
+
+[server]
+# Keeps the app from auto-collecting usage stats.
+gatherUsageStats = false
